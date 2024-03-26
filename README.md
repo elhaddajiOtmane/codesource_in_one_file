@@ -1,5 +1,5 @@
 
-# codesource_in_one_file 
+# codesource_in_one_file for (nextjs)
 
 codesource_in_one_file  is a powerful tool designed to magically concatenate JavaScript files from various nested directories into a single, unified file. Ideal for projects requiring consolidation of JS scripts for analysis, deployment, or any form of processing where merging JS files becomes necessary. This project leverages Python for scripting and Docker for easy and consistent setup and execution across any environment.
 
