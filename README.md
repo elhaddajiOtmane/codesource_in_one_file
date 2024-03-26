@@ -1,6 +1,3 @@
-Creating a `README.md` file for your project named "SpellSourceCauldron" that encapsulates the essence of the project, its setup, usage, and Docker container information would look something like this:
-
----
 
 # SpellSourceCauldron
 
