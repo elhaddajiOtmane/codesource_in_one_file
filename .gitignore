@@ -1,0 +1,7 @@
+# Ignore all directories and their contents
+**/
+
+# Except for these directories
+!/src/
+!/docs/
+!/scripts/
