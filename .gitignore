@@ -5,3 +5,5 @@
 !/src/
 !/docs/
 !/scripts/
+*.php
+*.json
